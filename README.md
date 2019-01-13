@@ -10,4 +10,4 @@ Crazy space game featuring a cro-magnon dude, laser beams, and floating pills.
 
 **Time:** 12 hours
 
-**Fruit Roll-Ups eaten:** Infinite
+**Fruit Roll-Ups:** Infinite
